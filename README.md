@@ -1,3 +1,3 @@
-Remote
+Local
 # merge-conflicts
 hello world
